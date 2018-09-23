@@ -1,0 +1,3 @@
+surprinzator
+daca o luati, sa nu va puna dracu sa bifati "maximum performance" in samsung magician. am facut asta, dupa o luna incepeau sa apara erori. marunte si nesemnificative la inceput, cum ar fi sistemul de operare nu se incarca din prima, trebuia sa dau restart. numai ca intr-o dimineata m-am trezit ca nu mai exista partitia. nimic! am formatat si am reinstalat tot. acuma merge, dar ma pregatesc de surprize noi.
+viteza e "meh". am avut 2 hdd-uri in raid 0 si viteza e doar un pic mai mare. se observa numai la pornire si la copierea fisierelor marunte dar multe.

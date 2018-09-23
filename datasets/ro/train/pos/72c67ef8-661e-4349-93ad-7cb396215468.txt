@@ -1,0 +1,6 @@
+recomand
+pro: - functioneaza foarte bine
+- nu se incalzeste
+
+contra: - aspectul de lucru ieftin
+- pretul

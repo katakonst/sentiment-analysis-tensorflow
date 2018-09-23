@@ -1,0 +1,6 @@
+recomand
+excelenta. doar cateva minusuri, care nu afecteaza functionalitatea principala:
+- un display minimal ar fi fost util uneori
+- ar fi fost bine daca s-ar fi putut atasa o antena la radio, pentru ca nu prea reuseste sa prinda mare lucru fara
+- pe conexiunea bluetooth apare un mic zgomot de fundal, perceptibil in special la volum redus
+- o interfata jack clasica ar fi fost utila poate

@@ -1,0 +1,9 @@
+sub asteptari
+punctele forte au tot fost expuse. eu am sa prezint ce e mai putin placut:
+
+1. poti folosi un sd card doar daca renunti la unul dintre sim-uri. ori dual sim, ori single sim si sd card.
+2. memoria efectiva, libera, este cam de 7 gb.
+3. camerele foto sunt ok, dar cam deformeaza.
+4. la o folosire medie, trebuie incarcat zilnic.
+5. nu are giroscop, nu poate fi folosit cu ochelari vr.
+6. semnal 4g pe un singur sim, pe celelalat 2g

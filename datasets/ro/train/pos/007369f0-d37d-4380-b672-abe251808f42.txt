@@ -1,0 +1,2 @@
+hotspot
+pentru activare hotspot trebuie sa ai conexiunea 4g activata chiar daca stai pe wireless si iti apare si hotspot personal.

@@ -1,0 +1,8 @@
+ssd samsung evo 500gb
+*pro:
+-capacitate de citire foarte mare;
+-mai rapid si mai bun decat un hdd.
+*contra:
+-o capacitate destul de mica fata de un hdd;
+-un pret destul de mare.
+*concluzia: este foarte bun fata de un hdd, dar are o capacitate mica fata de acesta.

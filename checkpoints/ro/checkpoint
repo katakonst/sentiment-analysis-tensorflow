@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/katakonst/disertatie/sentiment-analysis-tensorflow/checkpoints/ro/rotf.tfl"
+all_model_checkpoint_paths: "/home/katakonst/disertatie/sentiment-analysis-tensorflow/checkpoints/ro/rotf.tfl"

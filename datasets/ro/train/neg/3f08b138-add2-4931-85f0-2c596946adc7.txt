@@ -1,0 +1,4 @@
+bun si nu prea.
+atentie vitezele de scrie si citire sunt date de cache-ul ssd-ului care este de 1 g. daca tranferati fisiere mai mari o sa aveti o scadere drastica a vitezei de transfer si a performantelor. memoria interna a sdd este de o calitate slaba.
+
+adica merg cu cioara vopsita.

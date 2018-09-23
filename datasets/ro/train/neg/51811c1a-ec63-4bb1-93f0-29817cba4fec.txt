@@ -1,0 +1,2 @@
+ok
+nu reusesc sa il configurez pe wireless, imi da un msaj cum ca s-a stabilit conexiunea la reteaua locala dar nu se poate conecta la internet. verifica setarile dns in setari ip sau contactati furnizorul de servicii internet. ma poate ajuta cineva sa imi spuna cum la setat? mentionez ca internetul este de la rds- rcs si am ruter wireless. mai am doua smart-uri lg pe care leam cofigurat si merg pe wireless. ms

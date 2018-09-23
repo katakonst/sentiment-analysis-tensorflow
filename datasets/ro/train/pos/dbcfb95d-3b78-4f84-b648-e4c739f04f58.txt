@@ -1,0 +1,5 @@
+p9 lite
+bun pentru segmentul lui. probleme mici care s-au rezolvat odata cu noul update.
+
+minusuri - lipsa ecran protectie si incarcator.. doar 1a.. rezulta timp mare de incarcare, pana la
+3 ore.

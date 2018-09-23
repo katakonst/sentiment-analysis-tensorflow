@@ -1,0 +1,2 @@
+dubleaza viteza.
+rapid pt un sata2. merge perfect pe ide (adica nu e nevoie sa treci pe ahci). daca ai un pc si nu ai ssd, dubleaza-i viteza cu acesta.

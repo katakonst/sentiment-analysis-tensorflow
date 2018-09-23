@@ -1,0 +1,8 @@
+recomand
+in atentia celor care sunt la inceput cu ssd-urile.
+1. aveti nevoie si de cablu sata flexi
+2. daca, carcasa nu dispune de un bay 2. 5, nu este necesar sa cumparati si un adaptor la ssd (il puteti lasa aruncat prin unitate)
+3. daca placa de baza este sata 2, asta nu inseamna ca ssd-ul nu va functiona. puteti pune un ssd sata 3, insa viteza acestuia va fi limitata la un sata 2 (250-300mb/s)
+
+am achizitionat acest ssd acum 2 zile si de cand l-am pus in functiune, parca e alt calculator. foarte foarte multumit de el.
+acum sa speram ca si durata vietii sale va fi la fel de placuta.: d

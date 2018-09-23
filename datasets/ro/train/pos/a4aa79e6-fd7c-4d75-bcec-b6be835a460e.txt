@@ -1,0 +1,3 @@
+cumparat cu 399 lei de pe emag, pe 23.06.2016
+l-am luat impreuna cu un rack extern inter-tech cobanitrox xtended gd-25633, usb 3.0, in care am pus hdd-ul, pentru un laptop asus cu i3, 1.70ghz si 4gb ram.
+laptopul mergea bine si inainte dar acum merge si mai bine. am incercat toate variantele: win 7, 8.1 si 10 dar cu 8.1(peste care am instalat programelul gratuit "clasic shell" pentru ca butonul start sa se comporte ca in win7) e cel mai bine. pornirea windows-ului e foarte rapida (sub 10sec). vitezele de scriere/citire sunt ca in specificatii. recomand si acest ssd, si rack-ul.

@@ -1,0 +1,2 @@
+bun
+bun, silentios, incapator, ceas-ul nu se reseteaza nici cand cade curentul, dozatorul de apa folositor.

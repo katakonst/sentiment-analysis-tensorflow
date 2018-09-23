@@ -1,0 +1,2 @@
+o schimbare de nota 10
+inlocuirea hdd-ului clasic cu acest ssd a scazut extraordinar atat timpul de pornire al laptopului cat si timpul de executie al aplicatiilor grafice (pentru arhitectura).

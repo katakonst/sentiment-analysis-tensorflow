@@ -1,0 +1,2 @@
+foarte slab
+p5 energy cu procesor pe 64 biti si cu android 5 se misca bine, dar p6 energy lite cu android 6 are lag si se blocheaza. nu stiu daca un downgrade de android rezolva problema, ori un procesor mai bun.

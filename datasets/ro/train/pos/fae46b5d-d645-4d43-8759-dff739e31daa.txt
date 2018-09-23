@@ -1,0 +1,6 @@
+super
+este ok:
+-aspect placut
+-sunet ok
+-acumulator ok
+-conectivitate ok

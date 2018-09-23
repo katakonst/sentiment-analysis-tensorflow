@@ -1,0 +1,7 @@
+nu lasa aplicatile sa modifice setarile de sistem
+nu lasa aplicatile sa modifice setarile de sistem (merge numai pe android 6)
+dupa ce faceti aceasta setare veti observa ca va merge telefonul de cel putin 5 ori mai bine
+intrati in setari si mergeti pe aplicati de acolo e foarte usor intrati pe rotita zimtata aceea din coltul dreapta sus
+dupa mergeti pe (modifica setarile de sistem) dupa aceea e simplu le treceti pe toate pe nu
+cu exceptia unei aplicati care se numeste calendar
+dupa opriti telefonul si il reporniti si o sa fiti uimiti de cat de repede o sa mearga succes...

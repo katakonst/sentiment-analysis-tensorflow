@@ -1,0 +1,7 @@
+momentan foarte bun
+plusuri: baterie, ecran, design, nfc, fingerprint sensor rapid
+minusuri: aplicatii non stock care nu se pot dezinstala
+
+sistemul (android 6.0, kirin 650, 2gb) se misca ok insa se simte pe alocuri ca procesorul e unul mainstream si nu high end. am trecut de la lg flex2 care avea 810 (4xa57 + 4xa53) la octa core (4x a53@2ghz + 4xa53@1.4ghz). la scroll rapid facebook/browser se observa un lag spre deosebire de flex2 care avea lag doar cand nu mai avea ram.
+
+nivelul de ram liber e foarte bun - de regula 300-800mb spre deosebire de flex2 100-300m (ambele avand 2gb ram).

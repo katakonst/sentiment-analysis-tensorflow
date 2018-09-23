@@ -1,0 +1,8 @@
+p6 energy lite
+am achizitionat si eu unul, intr-adevar se misca greu la inceput dar dupa cateva update-uri din google playstore nu prea mai are lag.
+pro: -bateria foarte foarte buna.
+- ecranul foarte luminos, vizualizare foarte buna in lumina soarelui.
+-sunet bun
+-semnal wi-fi excellent. prinde mai ceva ca un laptop ac.
+-android curat. (marshmallow) care e principalul vinovat de lag, nu telefonul. dupa parerea mea kitkat e cea mai reusita versiune android de pana acum.
+contra: nu reusesc sa fac root.

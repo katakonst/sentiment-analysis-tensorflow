@@ -1,0 +1,2 @@
+prost
+telefonul se incalzeste si se blocheaza

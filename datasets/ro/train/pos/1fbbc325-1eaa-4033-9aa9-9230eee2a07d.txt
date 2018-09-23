@@ -1,0 +1,9 @@
+{ } optiuni dezvoltator
+am si eu acest telefon si am facut cum a zis un baiat de aici si m-am virusat, nu trebuie sa opriti nici o aplicatie pt ca va virusati, si nu tre sa inchideti deloc telefonul ma refer la { } optiuni dezvoltator
+se activeaza din setari de la ultima optiune de jos despre tableta -> numarul versiunii
+apasati de 8 ori pe el pana apare un pop-up si scrie ati devenit dezvoltator
+dupa intrati iar in setari si intrati pe { } optiuni dezvoltator, de acolo tre sa faceti urmatori pasi
+"folositi vechiul client dhcp", "fortati redarea cu gpu", "fortati msaa 4x", "dezactivati suprapun. hw" si "nu pastrati activitatile" apoi la "scara animatie fereastra", "scara tranzitie animatii" si la "scara durata animator" bifezi animatie dezactivata
+
+si asta e tot
+apoi o sa mearga de 5 ori mai bine....

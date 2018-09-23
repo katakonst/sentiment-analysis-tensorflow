@@ -1,0 +1,2 @@
+bun
+bun si nou in acelasi timp la testele cu samsung magician a scos niste valori cam greu de digerat sau ma rog soarte greu sequential read 843 mb sequential write 2317 mb random read 94995 write 63492 random mai mic cei drept ca in specificatii dar sequential cam mare ssd-ul este pus pe sata 3 cu toate setarile facute inclusiv rapid mode nota windows 7 - 7, 9 porneste windows cu toate programele instalate ( 33 gb ) in 42 sec opreste in 8 sec

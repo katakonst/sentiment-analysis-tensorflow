@@ -1,0 +1,2 @@
+dubios.
+raport calitate pret ok daca ar functiona in parametei normali. eu sunt la a treia incercare cu modelul asta. primul avea pixeli morti, al doilea era spart, cel pe care il am acum are bleeding deranjant in toata partea de jos a ecranului. astept sa vad daca apare pe stoc pentru al schimba din nou.

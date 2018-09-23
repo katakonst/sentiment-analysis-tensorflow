@@ -1,0 +1,2 @@
+probleme cu produsul
+de fiecare data dupa ce am incheiat un apel imi cade semnalul timp de 10-15 secunde

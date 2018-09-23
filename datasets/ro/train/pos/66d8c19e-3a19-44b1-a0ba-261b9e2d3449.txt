@@ -1,0 +1,2 @@
+merge bine pe un macbook pro 13" late 2011
+login screen-ul se incarca in 16 secunde, sub 30 de secunde dureaza pana am chrome deschis cu un site incarcat.
